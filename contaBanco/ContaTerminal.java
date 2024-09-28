@@ -19,9 +19,6 @@ public class ContaTerminal {
    System.out.print("Digite o saldo: ");
    double numeroSaldo = scanner.nextDouble();
 
-  
-  //
-
   String conta = String.valueOf(numeroConta);
   String saldo = String.valueOf(numeroSaldo);
 
