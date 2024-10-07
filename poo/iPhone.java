@@ -20,7 +20,7 @@ public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
     System.out.println("Telefone     - 4-Ligar               5-Atender        6-Iniciar chamada de voz ");
     System.out.println("Internet     - 7-Abrir pagina        8-Adicionar aba  9-Atualizar pagina");
 
-    // Tratamento de Execeção
+    // Tratamento de Exceção
     try {
       System.out.print("\nDigite o numero da operação: ");
       operacao = scanner.nextInt();
